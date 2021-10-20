@@ -1,6 +1,6 @@
 {
   "name": "use-focus-visible",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react hook based on https://github.com/WICG/focus-visible",
   "author": "Dipun Mistry (https://github.com/dipunm)",
   "contributors": [
